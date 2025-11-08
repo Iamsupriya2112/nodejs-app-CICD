@@ -1,1 +1,1 @@
-# nodejs-app-CICD
+# node-js-app-CICD
